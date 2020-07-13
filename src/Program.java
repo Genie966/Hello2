@@ -3,6 +3,7 @@ public class Program {
 		System.out.println("ㅎㅇㅎㅇ");
 		int x=3;
 		int y=6;
+		int total =x+y;
 	}
 }
 
