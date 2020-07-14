@@ -6,6 +6,7 @@ public class Program {
 		int total =x+y;
 		//수정1???
 		// 수정 2
+		// 매스터 ㅎㄷㄷ
 	}
 }
 
