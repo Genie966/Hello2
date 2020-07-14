@@ -4,6 +4,8 @@ public class Program {
 		int x=3;
 		int y=6;
 		int total =x+y;
+		//수정1???
+		// 수정 2
 	}
 }
 
